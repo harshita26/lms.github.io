@@ -1,0 +1,27 @@
+body {padding: 0px 5%;}
+li a{display: inline-block;font-size: 20px;padding: 10px 15px;margin: 25px 0px 10px;text-transform: uppercase;color:#000;}
+li a:hover {color: brown;background-color: skyblue;border-radius: 9px;}
+.active {color: red;}
+.nav li {display: inline-block;}
+.column1 {text-align:right;margin-left: 33%;}
+.row h1 {color: brown;font-size: 37px;}
+.column{float: left;width: 33%;}
+.column_c{float: left;width: 70%;}
+.news{margin-left: 70%;padding-top: 1px;}
+.img_c{width: 99%;text-align: center;margin-bottom: 3rem;}
+.form_control{margin: 15px 0px;display: block;border:0.75px solid black;outline:none;width: 90%;padding: 12px;}
+.button {color:white;background-color:red;border:none;font-weight: 800;padding:14px 20px;cursor: pointer;margin:10px 0 5px;outline:none;font: 1em sans-serif;}
+.button:hover{background: #ffc107;color: #000;}
+form p{color:skyblue;font-size: 21px;letter-spacing: 1px;}
+a{text-decoration: none;}
+div.gallery { margin: 12px; border: 1px solid #ccc; float: left; width: 280px; height: 260px;}
+div.gallery:hover {border: 1px solid #777;}
+div.gallery img {width: 100%;height: 75%;}
+div.desc {padding: 15px;text-align: center;}
+.row_gallery {margin: inherit;}
+.row_h2 {color: brown;margin: 35px 0px;font-size: 30px;}
+.column_p {padding-left: 32px;margin-top: -10px;}
+.row_p {display: inline-flex;margin-bottom: 30px;}
+.margn_b{margin-bottom: 25px;}
+.cont{margin: 5px 25px 5px 0px;}
+p.content_p{text-align: justify;}
